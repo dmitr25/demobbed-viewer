@@ -1058,6 +1058,7 @@ dmECC.drawTrackLegend = function() {
       dmECC.addLegendEntry("hadron:",             92, TrackECC.colors(12));
       dmECC.addLegendEntry("hadron:",            110, TrackECC.colors(10));
       dmECC.addLegendEntry("hadron:",            128, TrackECC.colors(14));
+      dmECC.addLegendEntry("gamma:",             146, TrackECC.colors(17));
 
       break;
 
